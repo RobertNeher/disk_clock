@@ -1,3 +1,3 @@
 # Disc Clock
 
-Anoth clock design for maximal unreadability.
+Another clock design for maximal unreadability.
