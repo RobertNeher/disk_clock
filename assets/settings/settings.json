@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "settings": {
+    "title": "Disk Clock",
+    "debugMode": true,
+    "font": "Roboto",
+    "fontSize": 16,
+    "backgroundColor": "#ffffffcc",
+    "borderColor": "#ff000000"
+  }
+}
