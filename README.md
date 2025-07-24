@@ -1,3 +1,3 @@
-# flutter_art
+# Disc Clock
 
-A new Flutter project.
+Anoth clock design for maximal unreadability.
